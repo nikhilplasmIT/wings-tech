@@ -4,9 +4,10 @@ import { CommonModule } from '@angular/common';
 import { Routes, RouterModule, Router} from '@angular/router';
 
 
+
 const routes : Routes = [
 
-// {path: '', component:GeneralObservationComponent},
+//  {path: '/feedback', component:FeedbackComponent},
 
 
 

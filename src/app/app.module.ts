@@ -25,12 +25,17 @@ import {MatSnackBarModule} from '@angular/material/snack-bar';
 import { AppRoutingModule, routingcomponents } from './app-routing/app-routing.module';
 import { WingsComponent } from './wings/wings.component';
 
+import { HeaderComponent } from './header/header.component';
+import { FooterComponent } from './footer/footer.component';
+
 
 
 @NgModule({
-  declarations: [	
+  declarations: [				
       WingsComponent,
-      AppComponent
+      AppComponent,
+      HeaderComponent,
+      FooterComponent
    ],
   imports: [
     BrowserModule,

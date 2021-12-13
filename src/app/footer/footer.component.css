@@ -1,0 +1,23 @@
+.page2 {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .second {
+    height: 170px;
+    background-color: #1fd1f9;
+    background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+    width: 1140px;    
+    margin: auto;
+  }
+
+  .footer {
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    /* background-color: rgb(31, 23, 23); */
+    color: white;
+    text-align: center;
+    width: 1140px;    
+    margin: auto;
+  }

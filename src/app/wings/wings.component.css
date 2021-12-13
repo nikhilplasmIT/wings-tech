@@ -1,8 +1,4 @@
-.container {
-  /* padding: 100%;
-  margin: 100%; */
- 
-}
+
 
 .navbar-brand {
   font-weight: bold;
@@ -39,15 +35,14 @@
   width: 50%;
 }
 
-.page2 {
-  font-size: 20px;
-  font-weight: bold;
-}
+
 
 .second {
-  height: 170px;
+  height: 180px;
   background-color: #1fd1f9;
   background-image: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+  width: 1740px;    
+  margin: auto;
 }
 
 .size {
@@ -76,7 +71,7 @@
   font-weight: bold;
   color: white;
   margin: auto;
-  width: 50%;
+  width: 50%;    
   padding: 150px;
 }
 
@@ -91,12 +86,9 @@
   border-radius: 35px;
 }
 
-.footer {
-  left: 0;
-  bottom: 0;
-  height: 80px;
-  width: 100%;
-  /* background-color: rgb(31, 23, 23); */
-  color: white;
-  text-align: center;
-}
+/* .container{
+  scroll-behavior: smooth;
+} */
+
+
+
